@@ -1,0 +1,30 @@
+F:\New folder (3)\19F-0133_19F-0353_19F_0349_Final_Semester_Project\FocusDict\FocusDict\x64\Debug\FocusDict.vcxproj.AssemblyReference.cache
+F:\New folder (3)\19F-0133_19F-0353_19F_0349_Final_Semester_Project\FocusDict\FocusDict\x64\Debug\FocusDict.AddForm.resources
+F:\New folder (3)\19F-0133_19F-0353_19F_0349_Final_Semester_Project\FocusDict\FocusDict\x64\Debug\FocusDict.EditForm.resources
+F:\New folder (3)\19F-0133_19F-0353_19F_0349_Final_Semester_Project\FocusDict\FocusDict\x64\Debug\FocusDict.FocusDict.resources
+F:\New folder (3)\19F-0133_19F-0353_19F_0349_Final_Semester_Project\FocusDict\FocusDict\x64\Debug\FocusDict.vcxproj.GenerateResource.cache
+F:\New folder (3)\20F1005_20F0260_DictionaryProject\FocusDict\FocusDict\x64\Debug\FocusDict.vcxproj.AssemblyReference.cache
+F:\New folder (3)\20F1005_20F0260_DictionaryProject\FocusDict\FocusDict\x64\Debug\FocusDict.AddForm.resources
+F:\New folder (3)\20F1005_20F0260_DictionaryProject\FocusDict\FocusDict\x64\Debug\FocusDict.EditForm.resources
+F:\New folder (3)\20F1005_20F0260_DictionaryProject\FocusDict\FocusDict\x64\Debug\FocusDict.FocusDict.resources
+F:\New folder (3)\20F1005_20F0260_DictionaryProject\FocusDict\FocusDict\x64\Debug\FocusDict.vcxproj.GenerateResource.cache
+F:\New folder (3)\20F1005_20F0260_DictionaryProject\FocusDict\FocusDict\x64\Debug\FocusDict.MyForm.resources
+F:\20F1005_20F0260_DictionaryProject\FocusDict\FocusDict\x64\Debug\FocusDict.vcxproj.AssemblyReference.cache
+F:\20F1005_20F0260_DictionaryProject\FocusDict\FocusDict\x64\Debug\FocusDict.AddForm.resources
+F:\20F1005_20F0260_DictionaryProject\FocusDict\FocusDict\x64\Debug\FocusDict.EditForm.resources
+F:\20F1005_20F0260_DictionaryProject\FocusDict\FocusDict\x64\Debug\FocusDict.FocusDict.resources
+F:\20F1005_20F0260_DictionaryProject\FocusDict\FocusDict\x64\Debug\FocusDict.MyForm.resources
+F:\20F1005_20F0260_DictionaryProject\FocusDict\FocusDict\x64\Debug\FocusDict.vcxproj.GenerateResource.cache
+C:\Users\Qamrosh Baig\Desktop\FocusDict\FocusDict\x64\Debug\FocusDict.vcxproj.AssemblyReference.cache
+C:\Users\Qamrosh Baig\Desktop\FocusDict\FocusDict\x64\Debug\FocusDict.AddForm.resources
+C:\Users\Qamrosh Baig\Desktop\FocusDict\FocusDict\x64\Debug\FocusDict.EditForm.resources
+C:\Users\Qamrosh Baig\Desktop\FocusDict\FocusDict\x64\Debug\FocusDict.FocusDict.resources
+C:\Users\Qamrosh Baig\Desktop\FocusDict\FocusDict\x64\Debug\FocusDict.MyForm.resources
+C:\Users\Qamrosh Baig\Desktop\FocusDict\FocusDict\x64\Debug\FocusDict.vcxproj.GenerateResource.cache
+C:\Users\Qamrosh Baig\Desktop\FocusDict\FocusDict\x64\Debug\FocusDict.Resource.resources
+C:\Users\Qamrosh Baig\source\repos\FocusDict\FocusDict\x64\Debug\FocusDict.vcxproj.AssemblyReference.cache
+C:\Users\Qamrosh Baig\source\repos\FocusDict\FocusDict\x64\Debug\FocusDict.AddForm.resources
+C:\Users\Qamrosh Baig\source\repos\FocusDict\FocusDict\x64\Debug\FocusDict.EditForm.resources
+C:\Users\Qamrosh Baig\source\repos\FocusDict\FocusDict\x64\Debug\FocusDict.FocusDict.resources
+C:\Users\Qamrosh Baig\source\repos\FocusDict\FocusDict\x64\Debug\FocusDict.MyForm.resources
+C:\Users\Qamrosh Baig\source\repos\FocusDict\FocusDict\x64\Debug\FocusDict.vcxproj.GenerateResource.cache

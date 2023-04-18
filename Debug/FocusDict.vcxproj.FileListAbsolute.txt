@@ -1,0 +1,5 @@
+C:\Users\talha\OneDrive\Desktop\FocusDictionary-master\FocusDict\FocusDict\Debug\FocusDict.vcxproj.AssemblyReference.cache
+C:\Users\talha\OneDrive\Desktop\FocusDictionary-master\FocusDict\FocusDict\Debug\FocusDict.AddForm.resources
+C:\Users\talha\OneDrive\Desktop\FocusDictionary-master\FocusDict\FocusDict\Debug\FocusDict.EditForm.resources
+C:\Users\talha\OneDrive\Desktop\FocusDictionary-master\FocusDict\FocusDict\Debug\FocusDict.FocusDict.resources
+C:\Users\talha\OneDrive\Desktop\FocusDictionary-master\FocusDict\FocusDict\Debug\FocusDict.vcxproj.GenerateResource.cache
